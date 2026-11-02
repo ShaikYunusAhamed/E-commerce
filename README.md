@@ -83,8 +83,6 @@ Includes:
 **Build Tool**
 - Gradle  
 
----
-
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
@@ -126,18 +124,3 @@ src/
 │ ├── resources/
 │ │ ├── templates/
 │ │ ├── static/
-
-
----
-
-## 🌟 Author
-
-**Arjun S Warhade**  
-📧 arjunwarhade0@gmail.com  
-GitHub: https://github.com/Arjun1266  
-
----
-
-## ⭐ Support
-
-If you like this project, please ⭐ star the repo!
