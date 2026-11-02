@@ -1,15 +1,6 @@
 # 🛒✨ E-Commerce Spring Boot Project  
 ### A modern shopping application with Cart System & PDF Receipt Generation
 
-![Java](https://img.shields.io/badge/Java-17-red)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.3.4-green)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![Thymeleaf](https://img.shields.io/badge/UI-Thymeleaf-yellow)
-![Gradle](https://img.shields.io/badge/Build-Gradle-white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
 ## 🚀 Project Overview
 
 A complete **E-Commerce Web Application** built using **Spring Boot + Thymeleaf + MySQL**.
